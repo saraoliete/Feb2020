@@ -60,5 +60,11 @@ public class Operaciones {
 	}
 	
 	
+	public int multiplicacion() {
+		
+		return operadorA*operadorB;
+	}
+	
+	
 
 }
